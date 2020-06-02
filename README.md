@@ -6,9 +6,9 @@ This is Pytorch implementation of our  IEEE Transactions on Multimedia [paper](h
 ### 1. Clone the repository
 https://github.com/silencedog/Stacked-U-shape-Network-with-Channel-wise-Attention-for-Salient-Object-Detection.git
 ### 2. Download the best pre-trained models and result maps
-Download the following pre-trained models [BaiduYun](https://pan.baidu.com/s/1zcDXrL3kZxEUstY-hQ0dmw)(Extracted code： flga) into CANet folder.
+Download the following pre-trained models [BaiduYun](https://pan.baidu.com/s/1zcDXrL3kZxEUstY-hQ0dmw)(Extracted code： flga) into SUCA folder.
 
-Download the our prediction result maps [BaiduYun](https://pan.baidu.com/s/1zcDXrL3kZxEUstY-hQ0dmw)(Extracted code： flga) into CANet folder.
+Download the our prediction result maps [BaiduYun](https://pan.baidu.com/s/1zcDXrL3kZxEUstY-hQ0dmw)(Extracted code： flga) into SUCA folder.
 ### 3. Train
 1. Set the main.py path.
 2. Set the mode parameters of main.py is train.
