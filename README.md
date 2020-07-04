@@ -1,5 +1,4 @@
-# Stacked-U-shape-Network-with-Channel-wise-Attention-for-Salient-Object-Detection
-This is Pytorch implementation of our  IEEE Transactions on Multimedia [paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9103129).
+
 ## Prerequisites
 * [Pytorch 1.0](https://pytorch.org/)
 ## Usage
