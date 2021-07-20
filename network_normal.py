@@ -303,7 +303,7 @@ class CAMUNet(nn.Module):
         all_fuse.append(p4_up)
         all_fuse.append(p5_up)
 
-        return all_fuse, block0, block1, block2, block3, block4
+        return all_fuse
 
 def build_model():
     return CAMUNet()
